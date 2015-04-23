@@ -1,0 +1,27 @@
+{
+  "name": "angular-eha.queueable",
+  "description": "Takes a workflow, and queues up calls to run it",
+  "version": "1.0.0",
+  "authors": [
+    "Karl Westin <karl.westin@gmail.com>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "homepage": "github.com/eHealthAfrica/angular-eha.queueable",
+  "keywords": "",
+  "main": "dist/queueable.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/eHealthAfrica/angular-eha.queueable"
+  },
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
